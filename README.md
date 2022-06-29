@@ -22,7 +22,7 @@ Hi, I am **Elçom**, I like **programming** and I love talking about **programmi
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElcomJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
