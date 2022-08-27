@@ -24,6 +24,12 @@
   <!--<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"\>-->
 </div>
 
+## Badges
+
+<div>
+  <a href="https://www.hackerrank.com/elcomj31?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</div>
+
 ## GitHub Analytics
 
 <div align="center">
