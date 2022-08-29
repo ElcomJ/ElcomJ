@@ -1,6 +1,6 @@
 ## About me
 
-<img align="center" src="https://i.ibb.co/m6ZRWnd/header-03.png"/>
+<img align="center" src="https://i.ibb.co/r21szvW/Header-02.png"/>
 
 ## Knowledge
 
