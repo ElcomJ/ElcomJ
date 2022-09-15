@@ -26,6 +26,7 @@
 
 <div>
   <a href="https://www.hackerrank.com/elcomj31?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/ElcomJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 </div>
 
 ## GitHub Analytics
