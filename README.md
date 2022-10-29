@@ -3,7 +3,7 @@
 *Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Engineer** Student.*<br/>
 *Nice to meet you 👋*
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -22,11 +22,18 @@
   <!--<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>-->
 </div>
 
-## 🏆 Badges
+## Badges
 
 <div>
   <a href="https://www.hackerrank.com/elcomj31?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/ElcomJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+</div>
+
+## GitHub Analytics
+<div align="center">
+  <a href="https://github.com/ElcomJ">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcomJ&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElcomJ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📫 Contact me
