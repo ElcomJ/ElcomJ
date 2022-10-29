@@ -25,20 +25,12 @@
 ## Badges
 
 <div>
-  <a href="https://www.hackerrank.com/elcomj31?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/ElcomJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/elcomj31" target="_blank"><img align="center" src="https://i.ibb.co/kXYjhWj/hackerrank.png" alt="Hackerrank" height="40" width="40" /></a>
 </div>
 
-## GitHub Analytics
-<div align="center">
-  <a href="https://github.com/ElcomJ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcomJ&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElcomJ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 📫 Contact me
+## Contact me
 
 <div>
-  <a href="https://www.linkedin.com/in/elcomjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:elcomj31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elcom-junior/" target="_blank"><img align="center" src="https://i.ibb.co/svNgdDx/linkedin-icon-2.png" alt="Linkedin" height="40" weight="40"></a>
+  <a href="mailto:elcomj31@gmail.com" target="_blank"><img align="center" src="https://i.ibb.co/RHmYCRr/gmail-icon-2.png" alt="Gmail" height="40" weight="40"></a>
 </div>
