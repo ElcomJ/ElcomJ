@@ -6,20 +6,7 @@
 ## Languages and Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>-->
+  <p align="left"> <img src="https://i.ibb.co/kQfjDjf/aws-2.png" alt="aws" widht="40" height="40"/> <img src="https://i.ibb.co/BTrXdy4/python-5.png" alt="python" widht="40" height="40"/> <img src="https://i.ibb.co/1JPnbWb/postgresql.png" alt="potgresql" widht="40" height="40"/> <img src="https://i.ibb.co/kxspF8H/microsoft-sql-server-1.png" alt="SQLServer" widht="40" height="40"/> <img src="https://i.ibb.co/VJJ8B14/mysql-2-removebg-preview.png" alt="MySQL" widht="40" height="40"/> <img src="https://i.ibb.co/XWY6HJK/ubuntu-4.png" alt="Ubuntu" widht="40" height="40"/> <img src="https://i.ibb.co/YQypTCw/Neovim-mark-svg.png" alt="Neovim" widht="40" height="40"/> <img src="https://i.ibb.co/C7Hkshd/62c719e9b44be1961554a6e0.png" alt="Databricks" widht="40" height="40"/> <img src="https://i.ibb.co/H4g9JVR/docker.png" alt="Docker" widht="40" height="40"/> <img src="https://i.ibb.co/LgSKFmH/git-icon.png" alt="Git" widht="40" height="40"/> <img src="https://i.ibb.co/wMs6jxW/github-icon-1.png" alt="Github" widht="40" height="40"/> <img src="https://i.ibb.co/XJgGppL/trello.png" alt="Trello" widht="40" height="40"/> </p>
 </div>
 
 ## Badges
@@ -32,5 +19,4 @@
 
 <div>
   <a href="https://www.linkedin.com/in/elcom-junior/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.ibb.co/svNgdDx/linkedin-icon-2.png" alt="Linkedin" height="40" weight="40"></a>
-  <a href="mailto:elcomj31@gmail.com"><img align="center" src="https://i.ibb.co/RHmYCRr/gmail-icon-2.png" target="_blank" height="40" weight="40"></a>
 </div>
