@@ -19,4 +19,5 @@
 
 <div>
   <a href="https://www.linkedin.com/in/elcom-junior/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.ibb.co/svNgdDx/linkedin-icon-2.png" alt="Linkedin" height="40" weight="40"></a>
+  <a href="mailto:elcomj31@gmail.com"><img align="center" src="https://i.ibb.co/XL8Rbvh/gmail.png" height="40" weight="40"></a>
 </div>
