@@ -1,7 +1,10 @@
-## About me
+## Welcome To My GitHub Profile !
 
 *Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Engineer** Student.*<br/>
 *Nice to meet you 👋*
+
+I’m currently learning: **Big Data | Automation | SQL | Python | Data Engineering | Cloud**
+
 
 ## Languages and Tools
 
