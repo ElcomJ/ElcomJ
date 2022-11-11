@@ -8,19 +8,26 @@ I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
 
 ## Languages and Tools
 
-<div>
-  <p align="left"> <img src="https://i.ibb.co/kQfjDjf/aws-2.png" alt="aws" widht="40" height="40"/> <img src="https://i.ibb.co/BTrXdy4/python-5.png" alt="python" widht="40" height="40"/> <img src="https://i.ibb.co/Tt9MdCD/sql-server.png" alt="sql" widht="40" height="40"/> <img src="https://i.ibb.co/3FH5PP0/apache-spark.png" alt="apache-spark" widht="40" height="40"/> <img src="https://i.ibb.co/1JPnbWb/postgresql.png" alt="potgresql" widht="40" height="40"/> <img src="https://i.ibb.co/kxspF8H/microsoft-sql-server-1.png" alt="SQLServer" widht="40" height="40"/> <img src="https://i.ibb.co/VJJ8B14/mysql-2-removebg-preview.png" alt="MySQL" widht="40" height="40"/> <img src="https://i.ibb.co/YQypTCw/Neovim-mark-svg.png" alt="Neovim" widht="40" height="40"/> <img src="https://i.ibb.co/C7Hkshd/62c719e9b44be1961554a6e0.png" alt="Databricks" widht="40" height="40"/> <img src="https://i.ibb.co/H4g9JVR/docker.png" alt="Docker" widht="40" height="40"/> <img src="https://i.ibb.co/LgSKFmH/git-icon.png" alt="Git" widht="40" height="40"/> <img src="https://i.ibb.co/wMs6jxW/github-icon-1.png" alt="Github" widht="40" height="40"/> <img src="https://i.ibb.co/XJgGppL/trello.png" alt="Trello" widht="40" height="40"/> </p>
-</div>
+#### Daily use:
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
+![Postgresql](https://img.shields.io/badge/-Potgresql-black?style=for-the-badge&logo=Postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)
+![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim)
+
+#### Data Engineering:
+![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=for-the-badge&logo=Apache-Spark)
+![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=Databricks)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+
+#### I'm Learning:
+![Airflow](https://img.shields.io/badge/-Airflow-black?style=for-the-badge&logo=Apache-Airflow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 ## Badges
-
-<div>
-  <a href="https://www.hackerrank.com/elcomj31" target="_blank"><img align="center" src="https://i.ibb.co/kXYjhWj/hackerrank.png" alt="Hackerrank" height="40" width="40" /></a>
-</div>
+<a href="https://www.hackerrank.com/elcomj31" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank" /></a>
 
 ## Contact me
-
-<div>
-  <a href="https://www.linkedin.com/in/elcom-junior/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.ibb.co/svNgdDx/linkedin-icon-2.png" alt="Linkedin" height="40" weight="40"></a>
-  <a href="mailto:elcomj31@gmail.com"><img align="center" src="https://i.ibb.co/XL8Rbvh/gmail.png" height="40" weight="40"></a>
-</div>
+<a href="https://www.linkedin.com/in/elcom-junior/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=blue" /></a>
+<a href="mailto:elcomj31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail" /></a>
