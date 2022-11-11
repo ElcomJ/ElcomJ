@@ -21,6 +21,9 @@ I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 
+#### Data Science:
+![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
+
 #### I'm Learning:
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=for-the-badge&logo=Apache-Airflow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
