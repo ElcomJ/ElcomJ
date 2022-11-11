@@ -21,7 +21,7 @@ I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 
-#### Data Science:
+#### Basic Knowledge:
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
 
 #### I'm Learning:
