@@ -1,9 +1,9 @@
 ## Welcome To My GitHub Profile !
 
-*Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Engineer** Student.*<br/>
+*Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Science** Student.*<br/>
 *Nice to meet you 👋*
 
-I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
+I’m currently learning: **Big Data | SQL | Python | Data Science | Cloud**
 
 
 ## Languages and Tools
