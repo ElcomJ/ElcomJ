@@ -10,7 +10,6 @@ I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
 
 #### 💻 Daily use:
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
-![Postgresql](https://img.shields.io/badge/-Potgresql-black?style=for-the-badge&logo=Postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim)
@@ -19,12 +18,15 @@ I’m currently learning: **Big Data | SQL | Python | Data Engineering | Cloud**
 #### ⚙️ Data Engineering:
 ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=for-the-badge&logo=Apache-Spark)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=Databricks)
+![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 
 
 #### 🧪 Data Science:
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=for-the-badge&logo=GoogleColab)
 
 
 ## 🏅 Badges
