@@ -13,6 +13,7 @@ I’m currently learning: **Python for Data Science | Machine Learning**
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=blue)
 
 
 #### ⚙️ Data Engineering:
