@@ -3,7 +3,7 @@
 *Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Science** Student.*<br/>
 *Nice to meet you 👋*
 
-I’m currently learning: **Big Data | SQL | Python | Data Science | Cloud**
+I’m currently learning: **Python for Data Science | Machine Learning**
 
 
 ## Languages and Tools
@@ -27,10 +27,6 @@ I’m currently learning: **Big Data | SQL | Python | Data Science | Cloud**
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=for-the-badge&logo=GoogleColab)
-
-
-## 🏅 Badges
-<a href="https://www.hackerrank.com/elcomj31" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank" /></a>
 
 
 ## 📫 Contact me
