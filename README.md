@@ -28,6 +28,7 @@ I’m currently learning: **Python for Data Science | Machine Learning**
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=for-the-badge&logo=GoogleColab)
+![RStudio](https://img.shields.io/badge/-RStudio-black?style=for-the-badge&logo=RStudio)
 
 
 ## 📫 Contact me
