@@ -3,7 +3,7 @@
 *Hello, I'm **Elçom**, I Like **Programming** and I'm a **Data Science** Student.*<br/>
 *Nice to meet you 👋*
 
-I’m currently learning: **Python for Data Science | Machine Learning**
+I’m currently learning: **Python | AWS**
 
 
 ## Languages and Tools
