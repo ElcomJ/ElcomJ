@@ -22,6 +22,7 @@ I’m currently learning: **Python | AWS | Data Engineering**
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 
 
 #### 🧪 Data Science:
