@@ -1,6 +1,6 @@
 ## Welcome To My GitHub Profile !
 
-*Hello, I'm **Elçom**, I Like **Programming** and I'm a **Full Stack Web** Student.*<br/>
+*Hello, I'm **Elçom**, and i'm a **Programming Student**.*<br/>
 *Nice to meet you 👋*
 
 
