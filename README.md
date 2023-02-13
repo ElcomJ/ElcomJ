@@ -13,10 +13,9 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=blue)
 
-#### ☕️ Java Development:
+#### Programming Languages:
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![IntelliJ](https://img.shields.io/badge/-Intellij-black?style=for-the-badge&logo=intellij-idea)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust)
 
 #### ⚙️ Other Tools:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
