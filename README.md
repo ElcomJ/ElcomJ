@@ -6,9 +6,9 @@
 
 ## Knowledge
 
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 
