@@ -10,8 +10,6 @@
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
-![Neovim](https://img.shields.io/badge/-neovim-black?style=for-the-badge&logo=neovim)
-![IntelliJ](https://img.shields.io/badge/-intellij-black?style=for-the-badge&logo=intellij-idea)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 ![Javascript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
 ![Cypress](https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress)
