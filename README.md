@@ -12,6 +12,11 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 ![Javascript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
+![Neovim](https://img.shields.io/badge/-neovim-black?style=for-the-badge&logo=neovim)
+![IntelliJ](https://img.shields.io/badge/-intellij-black?style=for-the-badge&logo=intellij-idea)
+
+## 🧪QA Tools
+
 ![Cypress](https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![Appium](https://img.shields.io/badge/-appium-black?style=for-the-badge&logo=appium-framework)
