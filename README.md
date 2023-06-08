@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk"/>
 <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
 <img src="https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/-webdriverio-black?style=for-the-badge&logo=webdriverio"/>
